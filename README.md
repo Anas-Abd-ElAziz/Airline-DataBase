@@ -27,7 +27,7 @@ Here's the logical schema translated from the ERD:
 ## 🗃️ SQL Database Creation Script
 
 The database can be created using the provided SQL script file
-[`AirlineDB.sql`](SQL/createdb.sql) (or the SQL code below):
+[`createdb.sql`](SQL/createdb.sql) (or the SQL code below):
 
 ``` sql
 USE AirLineDB;
