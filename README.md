@@ -144,14 +144,12 @@ USE AirLineDB;
   ----------------- -----------------------------
   `ERD.png`         Entity-Relationship Diagram
   `Schema.png`      Logical schema diagram
-  `AirlineDB.sql`   Full SQL creation script
+  `createdb.sql`   Full SQL creation script
 
 ------------------------------------------------------------------------
 
 ## 🧑‍💻 Author
 
-**Anas Abd El-Aziz**\
-Course: Database Systems\
-University Project --- Airline Management Database
+**Anas Abd El-Aziz**
 
 ------------------------------------------------------------------------
